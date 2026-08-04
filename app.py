@@ -130,10 +130,7 @@ def render_sidebar():
             value=500,
             step=50
         )
-    else:
-        st.sidebar.subheader("📥 Preloaded Dataset")
-        st.sidebar.markdown("**1,000 raw reviews** from Google Play")
-        st.sidebar.markdown("Preloaded data is stored in the repo")
+
     
     # Data Sources
     if st.session_state.use_live_data:
