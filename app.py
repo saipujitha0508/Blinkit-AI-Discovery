@@ -132,8 +132,8 @@ def render_sidebar():
         )
     else:
         st.sidebar.subheader("📥 Preloaded Dataset")
-        st.sidebar.markdown("**1,760 raw reviews** from Google Play, Reddit & App Store")
-        st.sidebar.markdown("**1,594 reviews** after cleaning & analysis")
+        st.sidebar.markdown("**1,000 raw reviews** from Google Play")
+        st.sidebar.markdown("Preloaded data is stored in the repo")
     
     # Data Sources
     if st.session_state.use_live_data:

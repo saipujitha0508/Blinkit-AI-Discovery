@@ -1,0 +1,857 @@
+{
+  "source_label": "app_store",
+  "collected_at": "2026-07-28T17:46:43.723688+00:00",
+  "count": 50,
+  "reviews": [
+    {
+      "id": "appstore_14353967495",
+      "source": "app_store",
+      "text": "Superb\n\nGreat services",
+      "rating": 5.0,
+      "date": "2026-07-27T04:35:59-07:00",
+      "author": "Pritam ka pyar",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719253+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353845563",
+      "source": "app_store",
+      "text": "Good\n\nGood service",
+      "rating": 5.0,
+      "date": "2026-07-27T03:53:16-07:00",
+      "author": "Raammyyaa",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719302+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353809351",
+      "source": "app_store",
+      "text": "Price differ\n\nPrice fluctuation",
+      "rating": 3.0,
+      "date": "2026-07-27T03:39:57-07:00",
+      "author": "Shubham Dabas",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719325+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353739369",
+      "source": "app_store",
+      "text": "Worst and worst\n\nThere is no open box delivery. I received the product in bad condition. There is no return or replacement. Executives were calling for the query and saying as per internal policies we couldn’t make any help on this.",
+      "rating": 1.0,
+      "date": "2026-07-27T03:13:30-07:00",
+      "author": "Bindu Reddy C",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719346+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353677913",
+      "source": "app_store",
+      "text": "Very nice app\n\nGood",
+      "rating": 5.0,
+      "date": "2026-07-27T02:50:27-07:00",
+      "author": "Ghytfgg",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719366+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353630018",
+      "source": "app_store",
+      "text": "Order\n\nNicely placed",
+      "rating": 5.0,
+      "date": "2026-07-27T02:31:28-07:00",
+      "author": "Simple Batra",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719385+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353429136",
+      "source": "app_store",
+      "text": "About this app\n\nI like this app even in hurry it delivers in 10 minutes you must try it",
+      "rating": 5.0,
+      "date": "2026-07-27T01:09:16-07:00",
+      "author": "Last minutes friend",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719403+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353415456",
+      "source": "app_store",
+      "text": "Scam products no accountability\n\nThe sent me a product that literally cut my face and refused to return it. Never using this again",
+      "rating": 1.0,
+      "date": "2026-07-27T01:03:36-07:00",
+      "author": "Prib009",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719421+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353360770",
+      "source": "app_store",
+      "text": "Over charged\n\nHigh charge delivery charge handling charge etc etc taking too many charges",
+      "rating": 3.0,
+      "date": "2026-07-27T00:40:34-07:00",
+      "author": "Sallu@1234",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719439+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353347256",
+      "source": "app_store",
+      "text": "Good service, quick service, and very good product\n\nAll products are good",
+      "rating": 5.0,
+      "date": "2026-07-27T00:34:50-07:00",
+      "author": "ReeMe’s kitchen",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719456+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353184526",
+      "source": "app_store",
+      "text": "The maps sucks\n\nThe delivery person always calls from 1-2kms away where as I see that I have put correct address in app. And this wasn’t once but all 3-4 times when I tried.",
+      "rating": 1.0,
+      "date": "2026-07-26T23:25:05-07:00",
+      "author": "GamePlayer2410",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719474+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14353062611",
+      "source": "app_store",
+      "text": "Accha hai Bahut\n\nGood",
+      "rating": 5.0,
+      "date": "2026-07-26T22:31:45-07:00",
+      "author": "Bhuj had",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719492+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352960225",
+      "source": "app_store",
+      "text": "Subha Ravi\n\nBoon for Seniors. So far they’ve been good with refunds and returns. Well done. Keep it up!",
+      "rating": 5.0,
+      "date": "2026-07-26T21:47:14-07:00",
+      "author": "Subha Ravi",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719511+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352934291",
+      "source": "app_store",
+      "text": "Pathetic quality\n\nUseless customer support",
+      "rating": 1.0,
+      "date": "2026-07-26T21:36:05-07:00",
+      "author": "Kapil24nagar",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719528+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352869330",
+      "source": "app_store",
+      "text": "Delivery guys not good\n\nVery poor service",
+      "rating": 1.0,
+      "date": "2026-07-26T21:08:24-07:00",
+      "author": "Sri9698",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719546+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352843894",
+      "source": "app_store",
+      "text": "User Friendly\n\nVery User friendly and convenient",
+      "rating": 5.0,
+      "date": "2026-07-26T20:58:01-07:00",
+      "author": "Prav_Hyd",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719564+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352774377",
+      "source": "app_store",
+      "text": "Good\n\nGood",
+      "rating": 5.0,
+      "date": "2026-07-26T20:29:53-07:00",
+      "author": "bhojan priyan",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719581+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352766022",
+      "source": "app_store",
+      "text": "Best thing in the world\n\nIt’s really a life savy",
+      "rating": 5.0,
+      "date": "2026-07-26T20:26:33-07:00",
+      "author": "@nish05",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719599+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352734835",
+      "source": "app_store",
+      "text": "Dvkr\n\nSuperb",
+      "rating": 5.0,
+      "date": "2026-07-26T20:14:16-07:00",
+      "author": "Dvkr kk",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719617+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352603294",
+      "source": "app_store",
+      "text": "Excellent for delivery\n\nToo good ☺️",
+      "rating": 5.0,
+      "date": "2026-07-26T19:23:18-07:00",
+      "author": "Vgvbbn",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719635+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14352409069",
+      "source": "app_store",
+      "text": "Nice\n\nVery good",
+      "rating": 5.0,
+      "date": "2026-07-26T18:09:52-07:00",
+      "author": "shahas_k",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719652+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351306146",
+      "source": "app_store",
+      "text": "Fraud in store activities\n\nIn store employees are cancelling hotwheels orders which are rare \nIt says cancelled due to technical issues - some sheet \nReputed and premium app but fraud employees",
+      "rating": 1.0,
+      "date": "2026-07-26T11:15:48-07:00",
+      "author": "seenu.james",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719670+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351240484",
+      "source": "app_store",
+      "text": "Always late\n\nDelivery agents need to be train",
+      "rating": 1.0,
+      "date": "2026-07-26T10:54:23-07:00",
+      "author": "Vigilante2.0",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719687+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351225471",
+      "source": "app_store",
+      "text": "Stock\n\nThey are coming",
+      "rating": 1.0,
+      "date": "2026-07-26T10:49:36-07:00",
+      "author": "shivAngi98",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719705+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351195174",
+      "source": "app_store",
+      "text": "Great service\n\nToo good platform thank you blinkit and thank you to the handling team to always provide us the necessities so easily at our place to blessed to have you serving in our town",
+      "rating": 5.0,
+      "date": "2026-07-26T10:39:59-07:00",
+      "author": "Fadssssssssss",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719722+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351091214",
+      "source": "app_store",
+      "text": "Price issues\n\nPrices are high of the same item compared to other apps",
+      "rating": 1.0,
+      "date": "2026-07-26T10:07:24-07:00",
+      "author": "Yd0747",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719740+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351083768",
+      "source": "app_store",
+      "text": "Eggs\n\nEggs cracked",
+      "rating": 1.0,
+      "date": "2026-07-26T10:05:03-07:00",
+      "author": "kalpx",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719758+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351035063",
+      "source": "app_store",
+      "text": "Poor and pathetic\n\nPoor helpline support to understand concern and no  proper communication.",
+      "rating": 1.0,
+      "date": "2026-07-26T09:50:03-07:00",
+      "author": "Ravi C S",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719775+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14351003898",
+      "source": "app_store",
+      "text": "thank you for the fast delivery\n\nThanks a ton",
+      "rating": 5.0,
+      "date": "2026-07-26T09:40:37-07:00",
+      "author": "HiSonak",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719794+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350966279",
+      "source": "app_store",
+      "text": "Scam\n\nThis app scammed me .i order 10 items and they gave me 9 and now after tell them thay are not even accepting it that they gave me less item. I got scammed",
+      "rating": 1.0,
+      "date": "2026-07-26T09:29:16-07:00",
+      "author": "Vimal671",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719811+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350862728",
+      "source": "app_store",
+      "text": "Scam\n\nThey never return a product, it has been a few times now",
+      "rating": 1.0,
+      "date": "2026-07-26T08:58:09-07:00",
+      "author": "Ravikant Kapil",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719828+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350701931",
+      "source": "app_store",
+      "text": "One step into making life easier\n\nVeryy usefull when stuck in any bad condition",
+      "rating": 5.0,
+      "date": "2026-07-26T08:11:07-07:00",
+      "author": "Karanbrar0193",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719846+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350629878",
+      "source": "app_store",
+      "text": "Its really good service\n\nAll good very nice",
+      "rating": 5.0,
+      "date": "2026-07-26T07:50:35-07:00",
+      "author": "Snowhite_maahi",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719863+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350621776",
+      "source": "app_store",
+      "text": "Very useful app\n\nLoved the app",
+      "rating": 5.0,
+      "date": "2026-07-26T07:48:15-07:00",
+      "author": "Soniiiii😎",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719881+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350584072",
+      "source": "app_store",
+      "text": "Review\n\nVery good and fast delivery",
+      "rating": 5.0,
+      "date": "2026-07-26T07:37:25-07:00",
+      "author": "Tahoor Laraib",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719899+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350577282",
+      "source": "app_store",
+      "text": "Too much time\n\nApp lags while searching and takes 30 -40 sec to come up items  that are searched",
+      "rating": 2.0,
+      "date": "2026-07-26T07:35:30-07:00",
+      "author": "90Yo/-@",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719917+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350414208",
+      "source": "app_store",
+      "text": "Good\n\nGood",
+      "rating": 5.0,
+      "date": "2026-07-26T06:48:02-07:00",
+      "author": "Atulgemini",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719934+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350351140",
+      "source": "app_store",
+      "text": "Print out delivered at door step\n\nYou are a life saver. I tried multiple shops for printing my exam sheet for tomorrow morning. Being Sunday, none of the printing shops were opened.",
+      "rating": 5.0,
+      "date": "2026-07-26T06:29:02-07:00",
+      "author": "JyothiGeorge",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719952+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350301206",
+      "source": "app_store",
+      "text": "Photo frame\n\nLight is Not working and the frame is damaged.",
+      "rating": 1.0,
+      "date": "2026-07-26T06:13:45-07:00",
+      "author": "Wee30",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719970+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350293552",
+      "source": "app_store",
+      "text": "Service\n\n5*",
+      "rating": 5.0,
+      "date": "2026-07-26T06:11:23-07:00",
+      "author": "Ak$har",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.719988+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350246891",
+      "source": "app_store",
+      "text": "Too fast and Reliable\n\nBest Services I believe for anyone in need and truly useful app to get things at tips",
+      "rating": 5.0,
+      "date": "2026-07-26T05:56:50-07:00",
+      "author": "Dr JAKSH",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720005+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350149243",
+      "source": "app_store",
+      "text": "Fast, Reliable & Professional Service\n\nI’m absolutely loving the Blanket app! The quick service saves me so much time and energy, and I appreciate that there’s complete transparency with no fraud involved. The executives are super professional, making the whole experience smooth and reliable. Highly recommended!",
+      "rating": 5.0,
+      "date": "2026-07-26T05:25:37-07:00",
+      "author": "Arvind_Rana",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720024+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350086922",
+      "source": "app_store",
+      "text": "Keep it up\n\nYou are doing good\nYou can bring more healthy options",
+      "rating": 5.0,
+      "date": "2026-07-26T05:04:46-07:00",
+      "author": "Ank May",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720042+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350073387",
+      "source": "app_store",
+      "text": "Two much delivery charge\n\nIf i have placed an order of Rs.599 then i have to pay 611 that is so much",
+      "rating": 3.0,
+      "date": "2026-07-26T05:00:13-07:00",
+      "author": "Sadofu",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720060+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14350040408",
+      "source": "app_store",
+      "text": "Shiva\n\nBroken idol",
+      "rating": 1.0,
+      "date": "2026-07-26T04:48:48-07:00",
+      "author": "jimin123457",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720077+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14349903159",
+      "source": "app_store",
+      "text": "Ghop gho\n\nWhajeh",
+      "rating": 5.0,
+      "date": "2026-07-26T03:58:46-07:00",
+      "author": "Deep anal homemade",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720095+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14349872574",
+      "source": "app_store",
+      "text": "Bestt app\n\nBlinkit is so much useful nd fastt in delivery! I have never ever received an bad packaging or expired food! Love if",
+      "rating": 5.0,
+      "date": "2026-07-26T03:46:57-07:00",
+      "author": "Bestt apppp in india",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720112+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14349863660",
+      "source": "app_store",
+      "text": "Good service\n\nNice",
+      "rating": 5.0,
+      "date": "2026-07-26T03:43:29-07:00",
+      "author": "Packaging scam zomato",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720130+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14349785349",
+      "source": "app_store",
+      "text": "Life saver\n\nMy thanks may not enough for Blinkit in Bihar for me .its life saver for my father .my father in post recovery at home two week back and something was not good and someone told me to chek his sugar but i had nothing at home .\nIt was 11.30 night and i placed order on Blinkit for accu chek device it came in 10 minute while cheke sugar was deadly dropped to just 22 only .\nSo that night Blinkit and god saved my father .thanks Blinkit",
+      "rating": 5.0,
+      "date": "2026-07-26T03:12:57-07:00",
+      "author": "dvtsbhsddwnnh",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720148+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    },
+    {
+      "id": "appstore_14349743534",
+      "source": "app_store",
+      "text": "Order\n\nDon’t west time order it",
+      "rating": 5.0,
+      "date": "2026-07-26T02:56:33-07:00",
+      "author": "pank r",
+      "url": "https://itunes.apple.com/in/review?id=960335206&type=Purple%20Software",
+      "language": null,
+      "collected_at": "2026-07-28T17:46:43.720166+00:00",
+      "metadata": {
+        "app_id": "960335206",
+        "country": "in",
+        "vote_sum": "0",
+        "vote_count": "0"
+      }
+    }
+  ]
+}

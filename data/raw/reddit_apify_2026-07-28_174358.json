@@ -1,0 +1,364 @@
+{
+  "source_label": "reddit_apify",
+  "collected_at": "2026-07-28T17:43:58.030596+00:00",
+  "count": 21,
+  "reviews": [
+    {
+      "id": "apify_reddit_t3_1v8r31a",
+      "source": "reddit_apify",
+      "text": "Never buy appliances or hardware from Blinkit\n\nThis isn&#39;t a complaint because that got nowhere with Blinkit. Instead it&#39;s a caveat to all customers. I&#39;ll briefly state the case.  My nephew, who lives in another city, was sending me an Asus server and with that, he ordered a 600W APC UPS on Blinkit because this place currently has a power stability issue.  I have used APC UPS products forever and there was no reason to doubt it would work. So I left it packed for a few days and went out of town. I tried it after I returned but it didn&#39;t work. It was dead.  I didn&#39;t try to initiate a return first as it wasn&#39;t my order and my nephew is a busy guy. Instead I raised a call on APC. Their technician came, took one look and told me that the product was tampered with, and he was right. Someone had removed the sticker and substituted both the battery and the PCB with defective ones. There was a thick layer of dust on the battery, it&#39;s serial number was seven years old and the PCB had cut resistors and capacitors with flash marks on them. Reference photos (1, 2) taken at that time.  I then contacted Blinkit, and guess what? All they could say was that the return window was over so they couldn&#39;t do a thing, and that I should contact the OEM. The relevant part of the &quot;support&quot; chat is included, ref photos 3 to 6. Then they went on with the usual platitudes of how sorry they were that they couldn&#39;t help me but there&#39;s no need to include that. I merely told them that they permenently lost not just me as a customer but that I would ensure they lose many more. The last screenshot is a LinkedIn post where someone else had a similar kind of Blinkit experience with a Philips mixer grinder. This is just to say that mine isn&#39;t an isolated case.  Thankfully, APC was thousand times better than Blinkit, and they did replace both the defective battery and the PCB, effectively the entire UPS for free. I never order appliances or hardware on Blinkit. I trust only Amazon for that, and as you can see, that&#39;s not without cause. My nephew and his circle used to, but now they too never will again. I have ensured that these cases are as widely known as possible, on multiple platforms.  It&#39;s clear that Blinkit has security issues in their warehouses, that they tolerate such obvious fraud and have terrible customer facing policies. Groceries are all they are perhaps good for, and since that day I&#39;ve boycotted it entirely. I can&#39;t see a single bit of difference in my life because of that, I can get groceries from many different places and apps.  For all of you, let this be a warning. Never buy any high value item, appliance or hardware from Blinkit. You never know when this will happen to you.   &#32; submitted by &#32;  /u/LingoNerd64   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T07:26:35.000Z",
+      "author": "LingoNerd64",
+      "url": "https://www.reddit.com/r/blinkit/comments/1v8r31a/never_buy_appliances_or_hardware_from_blinkit/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.775414+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/blinkit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8us0e",
+      "source": "reddit_apify",
+      "text": "First credit card recommendation for self-employed (₹11L income, no credit history)\n\nHi everyone, I&#39;ve been a reader here for a while and I&#39;m looking for advice on getting my first credit card. Profile:  Self-employed Annual income: around ₹11 lakh No previous credit card / no credit history Expected monthly card spend: around ₹5,000–₹8,000  My usual spending pattern:  Food delivery: Swiggy, Zomato Groceries: Blinkit Restaurants and eating out Online shopping: Nykaa, Tira, Amazon/other websites Occasional clothes shopping Entertainment: concert/event tickets District app spends: around ₹15,000 per year  What I&#39;m looking for:  Good cashback or rewards on food, dining, groceries, and online shopping Discounts/offers on Swiggy, Zomato, Blinkit, Nykaa, Tira, restaurants, and entertainment Some travel-related benefits would be a bonus:  IRCTC/train offers Cab benefits Travel discounts Occasional lounge access   My preference:  Cashback is preferred, but I&#39;m open to reward points if they provide better value Low annual fee or easy fee waiver A card that I can keep long term and possibly upgrade later Ideally something that is easier to get approved for as a first-time credit card user  I&#39;ve been looking at cards from HDFC, SBI, ICICI, Axis, HSBC, etc., but I&#39;m confused about which one fits my spending pattern best. Which card would you recommend for my profile? Also, are there any cards I should avoid as a beginner? Thanks in advance!  &#32; submitted by &#32;  /u/Valuable_Till_321   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T10:47:49.000Z",
+      "author": "Valuable_Till_321",
+      "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1v8us0e/first_credit_card_recommendation_for_selfemployed/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.776768+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/CreditCardsIndia",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8ne9l",
+      "source": "reddit_apify",
+      "text": "HSBC Live+ Credit Card: Massive Revaluation w.e.f. 26th July – Everything you need to know + MCC List -- Full Breakdown and Why you need to have this No Non-sense Card\n\nThe HSBC Live+ Credit Card received a major overhaul, fundamentally changing how it fits into a daily card setup. While a few nerfs were slipped in, the accelerated reward cap boost and category expansion make this one of the strongest daily-driver cashback cards in India if structured correctly. Here is the complete breakdown of the changes, the secret MCC hacks, and the exact spending blueprint to extract ₹14,400 in net cashback every year. 👉 *Apply Now - Must have HSBC Live+ Credit Card: https://tinyurl.com/HBSCLiveplus 📊 HSBC Live+ Changes at a Glance   Feature Old Structure New Structure    10% Cashback Cap ₹1,000 / billing cycle ₹1,200 / billing cycle   10% Categories Dining, Food Delivery, Groceries Dining, Groceries, Utilities (NEW), Offline Retail (NEW)   Network Tier Visa Signature Visa Infinite   Forex Markup 3.5% + GST 1.99% + GST (0% cashback on intl spends)   Domestic Lounge 4 visits / year 2 visits / year (1 per 6 months)   International Lounge None 1 visit / year (Starts Sept 1, 2026)   Fuel Perks Standard Surcharge Waiver ₹250 cashback / quarter on ₹10k+ contactless spends   💡 How to Maximize ₹14,400 Cashback Yearly (Spend Strategy) To max out the new ₹1,200 monthly cashback limit at 10%, you need to route ₹12,000 per month across eligible categories. Here is how an average household can easily hit that ₹12,000 sweet spot every month:   Category Monthly Spend MCC / Platform 10% Cashback    Groceries / Quick-Commerce ₹4,000 Blinkit, Instamart, Zepto, Swiggy Instamart ₹400   Food Delivery &amp; Dining ₹3,000 Zomato, Swiggy, Offline Restaurants ₹300   Utility Bills ₹3,000 Electricity, Gas, Water (MCC 4900) &amp; Mobile/Broadband (MCC 4814) ₹300   Offline Retail / Vouchers ₹2,000 Departmental Stores, Electronics, CRED / Magicpin ₹200   TOTAL ₹12,000 / month — ₹1,200 / month   💰 The Yearly Return Math:  Base 10% Cashback: ₹1,200 × 12 months = ₹14,400 / year Fuel Bonus: ₹250 × 4 quarters = ₹1,000 / year (optional) Annual Spend Achieved: ₹12,000 × 12 = ₹1,44,000    🔍 Pro-Tips &amp; MCC Routing Hacks Bank systems track Merchant Category Codes (MCCs), not brand names. You can leverage a few specific MCC inclusions to bypass exclusions:  The Zepto Amazon Pay Hack: Direct spends on Amazon and Flipkart earn only 1.5%. However, purchasing Amazon Pay balance / vouchers on Zepto processes under a grocery/retail MCC, triggering the full 10% cashback.  Detailed breakdown: Zepto Voucher Hack Guide  CRED &amp; Magicpin Voucher Secret: Spends processing under MCC 5947 (Gift/Novelty Shops) and MCC 5499 (Misc. Food Stores) now trigger 10% cashback. Eligible gift cards purchased via CRED or Magicpin under these codes earn the full 10%. Myntra Deadline: Myntra is currently earning 10% under the retail window, but this is a launch promo ending October 31, 2026 (dropping to 1.5% afterward).  💎 Unlocking Visa Infinite &amp; Travel Perks Moving to the Visa Infinite platform brings high-value lifestyle upgrades:  Airport Meet &amp; Assist: Access to complimentary tier perks globally, such as fast-track immigration and assistance.  See how to claim free Thailand Meet &amp; Assist: Visa Infinite Thailand Guide  International Lounge: 1 complimentary visit per year (rolling out September 1, 2026). Lower Forex Cost: Forex markup drops to 1.99%, making it decent for foreign transactions, though keep in mind base cashback on intl spends is now 0%.  ✂️ The Devaluations to Keep in Mind  Domestic Lounge Cuts: Slashed from 4 visits/year down to 2 visits/year (capped at 1 visit every 6 months). Complete MCC Blocklist: No cashback earned on Hospitals (MCC 8062) or Local Transportation/Transit (MCC 4111). No Base Rewards on Forex: International spends no longer yield the 1.5% base reward.  👉 *Apply Now - Must have HSBC Live+ Credit Card: https://tinyurl.com/HBSCLiveplus 🎯 Final Verdict By adding Utilities and Offline Retail while raising the monthly cap to ₹1,200, HSBC has turned the Live+ from a simple dining/grocery card into an essential household workhorse. If you structure your routine utility and grocery spends around it, offsetting the ₹2L fee waiver target is straightforward.  &#32; submitted by &#32;  /u/Lefty_RJ   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T04:12:37.000Z",
+      "author": "Lefty_RJ",
+      "url": "https://www.reddit.com/r/Raw_n_real_finance/comments/1v8ne9l/hsbc_live_credit_card_massive_revaluation_wef/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.777755+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/Raw_n_real_finance",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v89dt0",
+      "source": "reddit_apify",
+      "text": "Rate my credit card portfolio and suggest value addition!\n\nThese are exactly my card collection. I have taken help of AI for image representation for privacy purposes.  My usage for optimisations 1. Amazon pay - Most of monthly shopping for miscellaneous stuff (4k)  ICICI Sapphiro/HDFC freedom/SBI simpleclick- For big ticket purchase during sale Axis airtel rupay - Entire monthly grocery/utility (20k) Axis neo - Blinkit shopping monthly (250 discount /month) and Zomato (120 Discount twice) Axis flipkart - Rarely used for low price ticket Onecard - All monthly subscription  Yes bank - Backup rupay card for upi IDFC - Flight booking Kotak 811 - Closing for being useless    &#32; submitted by &#32;  /u/Ok_Board_3648   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-27T18:48:22.000Z",
+      "author": "Ok_Board_3648",
+      "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1v89dt0/rate_my_credit_card_portfolio_and_suggest_value/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.777798+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/CreditCardsIndia",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v7vpk5",
+      "source": "reddit_apify",
+      "text": "Finally got the batmobile\n\nWas browsing blinkit for groceries and found the batmobile with just 1 in stock   &#32; submitted by &#32;  /u/radvivek   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-27T09:45:33.000Z",
+      "author": "radvivek",
+      "url": "https://www.reddit.com/r/Hotwheelsindia/comments/1v7vpk5/finally_got_the_batmobile/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.777824+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/Hotwheelsindia",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v7qtai",
+      "source": "reddit_apify",
+      "text": "Survey How we buy groceries online\n\nHey everyone! 👋 Quick favour. We are a team of IIT Delhi and NIT Trichy alumni. We are requesting everyone to participate in a 2 min survey on how we buy groceries &amp; staples in Delhi NCR (Blinkit/Zepto habits, regional vs national brands, pricing).  Takes just a few minutes and would really help. https://form.jotform.com/262063838356059 Would mean a lot if you could fill it out today. Thanks! 🙏  &#32; submitted by &#32;  /u/Spiritual-Donkey-829   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-27T05:05:54.000Z",
+      "author": "Spiritual-Donkey-829",
+      "url": "https://www.reddit.com/r/delhi/comments/1v7qtai/survey_how_we_buy_groceries_online/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.777851+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/delhi",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8extf",
+      "source": "reddit_apify",
+      "text": "My skincare warriors\n\nA few days ago, I posted a review about my Aqua Soft FC Moisturizer and mentioned that someone in this sub had recommended it to me. Before this, I had tried so many moisturizers, but almost every single one gave me breakouts. This is the only moisturizer that actually suited my skin, so I wanted to share my experience. A lot of you asked in the comments about my complete skincare routine, so I thought I&#39;d make a detailed review. In this post, I&#39;ll share every skincare product I use, why I use it, and which products have genuinely worked for my skin. Of course, everyone&#39;s skin is different, so what works for me may not work for everyone—but if you have a similar skin type, this might help you find products that work for you too. First is the MINIMALIST SALICYLIC ACID CLEANSER. I mainly use this because I have acne-prone, really oily skin. I use it both in the morning and at night. It cleans my skin really well without making it feel stripped. I don&#39;t wear makeup, but it removes my sunscreen really well, including my tinted sunscreen. Ever since I started using this cleanser, I feel like it has definitely helped control my acne and keep my skin much clearer. So, if you have oily or acne-prone skin, this cleanser has worked really well for me. Next is the SKIN1004 Madagascar Centella Tone Brightening Capsule Ampoule with Niacinamide. Before this, I used the Minimalist Niacinamide Serum and the Plum Niacinamide Serum. Unfortunately, the Plum niacinamide serum and toner didn&#39;t suit my skin at all. They were hydrating, but my skin texture became really rough, and I felt like my pores looked much more noticeable. Then I decided to try this one. I&#39;d seen so many positive reviews, but I kept putting it off because it was expensive. Finally, I gathered the courage to buy the small bottle for around ₹1,000—and I&#39;m so glad I did. This serum has worked amazingly for me. It makes my skin look brighter, keeps it hydrated, and doesn&#39;t feel heavy or greasy. If you have oily skin like me, you know how difficult summers can be. Almost everything feels sticky and uncomfortable, but this serum is lightweight and hydrating without making my face feel oily. I use it every morning. You can use it at night too, but I have a different nighttime routine, which I&#39;ll share later. Next is my HOLY GRAIL—THE AQUA SOFT FC MOISTURIZER. Oh my God, I seriously love everyone who recommended this moisturizer in this sub. Thank you so, so much! I&#39;ve already shared this in another post, but literally every moisturizer I&#39;ve ever tried broke me out. It didn&#39;t matter if it was ₹300, ₹2,000, or even ₹3,000—almost every single one gave me pimples and acne. On top of that, they always felt greasy, heavy, and uncomfortable on my oily skin. But Aqua Soft FC is completely different. It&#39;s hydrating without feeling greasy, and it doesn&#39;t break me out. That&#39;s honestly so rare for my skin. Yes, it does contain fragrance, and I completely understand if that&#39;s a dealbreaker for some people. If your skin is sensitive to fragrance or it causes irritation, then I&#39;d avoid it. But if you simply don&#39;t like the smell and fragrance itself doesn&#39;t irritate your skin, I think it&#39;s still worth trying because it has worked incredibly well for me. So that&#39;s my morning skincare routine: - Minimalist Salicylic Acid Cleanser - SKIN1004 Centella Niacinamide Serum - Aqua Soft FC Moisturizer - And finally, my tinted sunscreen, which I&#39;ll talk about next. Next is the DOT &amp; KEY TINTED SUNSCREEN. At first, I honestly had no idea what a tinted sunscreen was. I thought it was basically foundation mixed with sunscreen. I don&#39;t really wear makeup—I genuinely don&#39;t know how to do it yet. I&#39;m still learning! Then I started researching the difference between a regular sunscreen and a tinted sunscreen. From what I read, tinted sunscreens have some extra benefits, like helping protect against visible light and giving a more even-looking complexion. So I decided to buy the Dot &amp; Key Tinted Sunscreen. Again, I have oily, acne-prone skin, and this sunscreen has worked really well for me. It&#39;s lightweight, gives my skin a really nice glow, feels hydrating, and doesn&#39;t leave my face feeling overly greasy or sticky. I also have the orange version, but personally, I like this one much more. I actually found out about tinted sunscreens through Instagram, and that&#39;s what convinced me to try one. I know a lot of people on Reddit don&#39;t like Dot &amp; Key products, and honestly, I don&#39;t love all of them either. I tried their blue Barrier Repair Moisturizer, and it completely broke me out. But this tinted sunscreen has been a totally different experience—it has worked amazingly for my skin. Of course, skincare is very personal. Just because something works for me doesn&#39;t guarantee it&#39;ll work for you. Everyone&#39;s skin is different. I&#39;m only sharing the products that genuinely worked for my oily, acne-prone skin, hoping they might help someone with a similar skin type. So, that&#39;s it for my morning skincare routine. It&#39;s actually pretty simple and has been working really well for my oily, acne-prone skin. Now let&#39;s talk about my night routine. I won&#39;t lie—my nighttime routine is a little complicated. 😭 It took me a lot of trial and error to figure out what works for my skin. I don&#39;t use every product every single night, and I rotate some of them to avoid irritating my skin. But this routine has genuinely worked for me, so I thought I&#39;d share it with you guys. Again, this isn&#39;t medical advice or a recommendation for everyone—I&#39;m just sharing my personal experience. If you have a similar skin type, maybe it&#39;ll help you too. So, let&#39;s get into my night routine. Here&#39;s a polished version that keeps your honest, conversational style while making it easier to follow. I also softened a few claims so they don&#39;t sound like guaranteed results. Now let&#39;s talk about my night routine. I use the same Minimalist Salicylic Acid Cleanser at night as well. After washing my face, I gently pat it completely dry with a clean towel or tissue. Then I apply 20% Azelaic Acid. It&#39;s a pharmacy product, and I&#39;ve already shared a photo of the exact one I use. Honestly, pharmacy skincare has worked like magic for me. Even my Aqua Soft FC Moisturizer is a pharmacy product. A little backstory—I actually didn&#39;t have much acne before I got into skincare. Then I started trying way too many products that weren&#39;t meant for my skin, and I completely messed up my skin barrier. That&#39;s when my acne became much worse. After doing a lot of research, I decided to try azelaic acid. I ordered mine from Blinkit, and because it&#39;s a pharmacy product, a doctor called me before the order was approved. I explained that I have acne and PCOS, which can also contribute to my skin issues. After I started using it, I noticed a big improvement in my acne. It can sting a little in the beginning, which is normal for some people. After applying the azelaic acid, I use my Aqua Soft FC Moisturizer. If your skin is sensitive or the azelaic acid stings, you can use the sandwich method: • Cleanser • Moisturizer • A pea-sized amount of Azelaic Acid • Moisturizer again If you&#39;re just starting, don&#39;t use too much. A pea-sized amount is enough. You can apply it all over your face or mainly on acne-prone areas. For me, it helped reduce my acne, gave my skin a healthier glow over time, and slowly improved my post-acne marks and pigmentation. I don&#39;t use the same active ingredient every night. I rotate them. One night I&#39;ll use Azelaic Acid, then after a gap, another night I&#39;ll use Tretinoin instead. The rest of the routine stays exactly the same—cleanser first, then the active, then moisturizer. Recently, I also started using a celimax retinal serum. It&#39;s honestly expensive—I paid around ₹2,000 for it—but so far it&#39;s been working really well for me. I&#39;ve only used it a couple of times, but my skin texture already feels smoother, and my pores appear less noticeable. I&#39;ll definitely keep testing it and give a proper long-term review later. The most important thing is don&#39;t use Azelaic Acid, Tretinoin, and Retinol together on the same night. Rotate them and give your skin rest days in between. Otherwise, you can damage your skin barrier. Whenever my skin starts feeling irritated or sensitive, I stop using active ingredients for a few days and focus only on repairing my skin barrier with a gentle moisturizer. I&#39;m also planning to try La Roche-Posay Cicaplast Baume B5 for barrier repair. And finally, I just want to say that I&#39;m not a dermatologist. This routine is something I figured out through a lot of trial and error, and it happens to work for my oily, acne-prone skin with PCOS. Everyone&#39;s skin is different, so please introduce new products slowly, patch-test them first, and if you have severe or persistent skin concerns, it&#39;s always a good idea to consult a dermatologist.  &#32; submitted by &#32;  /u/StationEfficient501   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-27T22:09:16.000Z",
+      "author": "StationEfficient501",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1v8extf/my_skincare_warriors/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.778015+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/IndianSkincareAddicts",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v77wsy",
+      "source": "reddit_apify",
+      "text": "Planning to move to Hiranandani Fortune City\n\nPanvel folks! Renting it out. I am getting a quote of 18.5k for a 2BHK and a 35K for a 3BHK. I know it&#39;s not even Panvel and further away but since I work from home, it&#39;s not an issue. Want be be a little bit away from the hustle bustle of the city. I am from Mumbai and wife is from Pune. Both 35. HFC seems to be a center from both the houses and right near the expressway so chose it. We also prefer big townships. Renting it directly from Hiranandani. Non-furnished house with basic electrical appliances given (not AC though). Three questions:  Can I get a better price? Reviews of the place and its surroundings. Accessibility to daily items, Instamart/Blinkit availability? Is the township occupied or crowded? If crowded then what&#39;s the people like? Clubhouse/gym/pool reviews. Any electricity or water issues? Overall safety? Any specific things to ask or lookout while viewing and then renting the place?  I am visiting tomorrow so do let me know. Thank you!  &#32; submitted by &#32;  /u/Different_Object_937   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-26T16:02:36.000Z",
+      "author": "Different_Object_937",
+      "url": "https://www.reddit.com/r/navimumbai/comments/1v77wsy/planning_to_move_to_hiranandani_fortune_city/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.778077+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/navimumbai",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8xwyo",
+      "source": "reddit_apify",
+      "text": "Is ps 5 available on Gurugram or Delhi or somewhere near me on any app like zepto, blinkit, amazon, flipkart, Swiggy instamart or a offline shop ?\n\n&#32; submitted by &#32;  /u/AadiOp7   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T13:04:05.000Z",
+      "author": "AadiOp7",
+      "url": "https://www.reddit.com/r/IndiaPS5/comments/1v8xwyo/is_ps_5_available_on_gurugram_or_delhi_or/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.779571+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/IndiaPS5",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8vhz5",
+      "source": "reddit_apify",
+      "text": "Need credit card recommendations for my first card\n\nHi everyone, I’m looking for advice on my first credit card. Age: 20 Employment Status: Self-employed Income: Around ₹11 lakh/year Credit History: No CIBIL score / first credit card Monthly spend of 5000-8000 Spending Pattern:  Swiggy &amp; Zomato Blinkit/Zepto Movies and concert bookings Casual shopping makeup and clothes (~₹7,000–₹8,000)  Preferences:  Good cashback/rewards Decent approval chances for a first-time applicant Cashback preferred Lounge access not required  Which cards would be suitable for my profile? Also, do you think I should get approved for a regular credit card, or start with a secured card?  &#32; submitted by &#32;  /u/Valuable_Till_321   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T11:19:52.000Z",
+      "author": "Valuable_Till_321",
+      "url": "https://www.reddit.com/r/IndianCreditCards/comments/1v8vhz5/need_credit_card_recommendations_for_my_first_card/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.779775+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/IndianCreditCards",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v930l3",
+      "source": "reddit_apify",
+      "text": "ELLLOOO! PLS HELP\n\nI was gonna join mnit and before i join, I just wanted to know about the college a lil. Help pls Considering MNIT Jaipur CSE. Would love some honest opinions from current students/alumni.  Overall, how is MNIT Jaipur? Is it better than DTU,NIT Warangal, NIT Surathkal, NIT Calicut, and MNNIT Allahabad- all CSE? Why? How would you rank these colleges overall? How is the coding culture? (CP, hackathons, open source, peer group) How are placements and internships, especially for core branches? How are the hostels and mess? How is campus life? (clubs, fests, sports, student activities) How is life outside the campus? Are there cafés, malls, and places to hang out? How is the city&#39;s connectivity? (Airport, railway station, buses) Are Zomato, Swiggy, Blinkit, Zepto, Instamart, etc. available? How supportive is the administration? What are the biggest pros and biggest cons of MNIT Jaipur? If you could choose again, would you still join MNIT Jaipur?   &#32; submitted by &#32;  /u/Limp-Camel4979   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T16:13:15.000Z",
+      "author": "Limp-Camel4979",
+      "url": "https://www.reddit.com/r/mnit/comments/1v930l3/elllooo_pls_help/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780077+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/mnit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8z64u",
+      "source": "reddit_apify",
+      "text": "Where can I get ice ?\n\nCan anyone suggest where can I get ice everyday ? Blinkit zepto it gets expensive, so anywhere near campus or in campus ?  &#32; submitted by &#32;  /u/Beneficial_Gur_7357   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T13:52:47.000Z",
+      "author": "Beneficial_Gur_7357",
+      "url": "https://www.reddit.com/r/Vit/comments/1v8z64u/where_can_i_get_ice/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780119+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/Vit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8vh4j",
+      "source": "reddit_apify",
+      "text": "Need credit card recommendations for my first card\n\nHi everyone, I’m looking for advice on my first credit card. Age: 20 Employment Status: Self-employed Income: Around ₹11 lakh/year Credit History: No CIBIL score / first credit card Monthly spend of 5000-8000 Spending Pattern:  Swiggy &amp; Zomato Blinkit/Zepto Movies and concert bookings Casual shopping makeup and clothes (~₹7,000–₹8,000)  Preferences:  Good cashback/rewards Decent approval chances for a first-time applicant Cashback preferred Lounge access not required  Which cards would be suitable for my profile? Also, do you think I should get approved for a regular credit card, or start with a secured card?  &#32; submitted by &#32;  /u/Valuable_Till_321   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T11:18:47.000Z",
+      "author": "Valuable_Till_321",
+      "url": "https://www.reddit.com/r/CreditCardIndia/comments/1v8vh4j/need_credit_card_recommendations_for_my_first_card/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780179+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/CreditCardIndia",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v8xict",
+      "source": "reddit_apify",
+      "text": "Comparing the big 3 quick commerce companies in India - Blinkit, Instamart, and Zepto.\n\nWe explore what it takes for quick commerce to become profitable, against the backdrop of Zepto&#39;s IPO: https://www.dot.news/post/6a6782ad5f7f120002496253  &#32; submitted by &#32;  /u/www-dot-news   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T12:47:42.000Z",
+      "author": "www-dot-news",
+      "url": "https://www.reddit.com/r/Dot_News/comments/1v8xict/comparing_the_big_3_quick_commerce_companies_in/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780219+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/Dot_News",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v955dy",
+      "source": "reddit_apify",
+      "text": "Goated Instamart\n\nOrdered two cans of thumsup can which had bumrah picture on  Got delivered normal cans of thums up Honestly don&#39;t even care about bumrah but of curiosity complaint on Instamart  Got full 80rs refund on cans  Now I have free coldrink   &#32; submitted by &#32;  /u/Known-Material5764   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T17:28:33.000Z",
+      "author": "Known-Material5764",
+      "url": "https://www.reddit.com/r/blinkit/comments/1v955dy/goated_instamart/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780260+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/blinkit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v94okx",
+      "source": "reddit_apify",
+      "text": "Blinkit AI agents are well trained to gaslight.\n\nPurchased a cheese spread box which came without a outer lid and only had the foil seal. When I raised a complaint, their AI customer support started false claims of the product not having a lid at all. It won&#39;t either connect me to a real person to make them understand the issue. Just adamantly kept declaring that it is not an issue.   &#32; submitted by &#32;  /u/amyg1991   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T17:12:06.000Z",
+      "author": "amyg1991",
+      "url": "https://www.reddit.com/r/blinkit/comments/1v94okx/blinkit_ai_agents_are_well_trained_to_gaslight/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780294+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/blinkit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v93rdy",
+      "source": "reddit_apify",
+      "text": "Where can I find low fat paneer in Haridwar?\n\nI&#39;m on a calorie deficit and usually get most of my protein from chicken and eggs, but I&#39;m avoiding both during Sawan. I&#39;ve checked Blinkit and a few nearby stores but couldn&#39;t find low fat paneer anywhere. Does anyone know a dairy or shop in Haridwar where I can get it regularly for the next month? Also, if you&#39;re vegetarian and into fitness, how do you hit your protein goals? Soya doesn&#39;t digest well for me, so I&#39;m looking for other options. Thanks in advance.  &#32; submitted by &#32;  /u/ChemicalHouse749   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-28T16:39:42.000Z",
+      "author": "ChemicalHouse749",
+      "url": "https://www.reddit.com/r/Haridwar/comments/1v93rdy/where_can_i_find_low_fat_paneer_in_haridwar/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780359+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/Haridwar",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v7wfgc",
+      "source": "reddit_apify",
+      "text": "Coffeeeee\n\nHey fellow coffee holics I recently came across an insta post on the davidoff chewable coffee drops. Looked intriguing. Iam hooked to the ferrero pocket coffee. I had it during my last trip to Prague. But this pocket coffee is available only in the EU and obviously I don&#39;t want to pay an arm and a leg to source it from there to India or Saudi (where I live most of the year). So, naturally I got really excited when I saw the davidoff thing on blinkit. But the reviews are poor especially on that insta post. People are commenting how bad it tastes. Then on the comments of that same post, I came across this page called caffienated.in. They seem to have something similar to the ferrero pocket coffee. I order two sleeves worth 400 INR. Free delivery. Wondering if anyone has any experience with it or are there similar stuff available here in India.  &#32; submitted by &#32;  /u/dentistgirl6789   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-27T10:25:09.000Z",
+      "author": "dentistgirl6789",
+      "url": "https://www.reddit.com/r/IndiaCoffee/comments/1v7wfgc/coffeeeee/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780400+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/IndiaCoffee",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v69hkq",
+      "source": "reddit_apify",
+      "text": "Title: Blinkit denied my refund for an opened, half-empty Pringles can without sharing any proof. What should I do next?\n\n&#x200B; I ordered a can of Pringles from Blinkit and when it arrived, it was already opened. The plastic lid was missing, the seal was broken, and almost half the chips were gone. I reported the issue immediately after delivery and even shared photos. I expected this to be a straightforward replacement/refund because the product was clearly not in a saleable condition. Today, I received an email saying they had &quot;reviewed the available records&quot; but were &quot;unable to validate the issue,&quot; so they refused both a refund and a replacement. My concern is this: if they&#39;ve reviewed some records, why won&#39;t they share them? I asked them to provide the packing/quality-check footage or any evidence they relied on before rejecting my complaint, but they haven&#39;t shared anything. Instead, they&#39;ve just asked me to accept their decision. I find it unfair that the burden is being placed on the customer while the company isn&#39;t willing to disclose the evidence behind its conclusion. Has anyone else faced something similar with Blinkit? Were you able to get a resolution after escalating the issue? Any suggestions on the next steps would be appreciated.  &#32; submitted by &#32;  /u/crizle13   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-25T14:12:24.000Z",
+      "author": "crizle13",
+      "url": "https://www.reddit.com/r/blinkit/comments/1v69hkq/title_blinkit_denied_my_refund_for_an_opened/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780440+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/blinkit",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v37sut",
+      "source": "reddit_apify",
+      "text": "I ordered the 1600 monitor arm and my honest take on the item (and the seller)\n\nAdded Edits at the end based on a lot of DMs, please read. The item: For the price point it fookin rocks... There are some nuances some people want. Side by side etc. But for my use case it&#39;s great. I needed space on my desk( which i didn&#39;t use since February because you know ADHD) . And it&#39;s great.. i needed something which can be easily adjusted when I am standing and talking. Or lying flat (recliner chair) and gaming. Would I prefer that it lets me do a &quot;pure&quot; side by side? yes. (It does, just have to move a bit back. ) Would it break my productivity workflow? absolutely the fuck not. In all terms i consider this a huge win at &lt;2k. The seller: Seems like someone who is just getting his sea legs. More power to him to be able to navigate the business in a world where consumers are at the receiving end. I am absolutely sure he is overwhelmed considering the response he has rcvd so far. He maybe a single guy, maybe with a small team managing the whole supply chain and at this price point. So give him time to respond. He is not Blinkit or Swiggy. P.S. I am not the seller&#39;s friend or paid reviewer. I am just a guy like most of you who would like to get a deal on a thing that&#39;s not rocket science and not pay a lot. But I also try to understand the challenges he is facing. u/Training-Cut1245 bhai tu kaam karte reh apna. Aur acha kar raha hai. Customers tend to get angry and the first reaction is from anger and not thinking. And it also goes vice-versa. Someone very senior in my early days told me &quot;India mai, humein customers se gaali khaane ka paisa milta hai, product khardina is secondary&quot;. While I don&#39;t adhere to the mentality, you are doing great but can do so much better. (Subscribe to my Ted Talk channel 😜.) But jokes aside, it&#39;s worth buying this arm (if you have the patience to manage your expectations.) Edit: Adding the sellers number since a lot of DM&#39;s have been pouring in.. so here it is: 8779490985. It is there on a lot of other posts in this community but adding here for easy access. Edit2: I am not responsible for his response times. The interactions between you and the seller are yours to manage. Edit3: He does take money upfront. If you are comfortable with that option please go ahead. Or feel free not to. Again, I am not responsible for what transpires between the seller and buyer. I am not saying you should be careful or not. All I am saying is I paid the said amount and got the product and I liked it.  &#32; submitted by &#32;  /u/versatilegeek_   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-22T06:23:02.000Z",
+      "author": "versatilegeek_",
+      "url": "https://www.reddit.com/r/homelabindiasales/comments/1v37sut/i_ordered_the_1600_monitor_arm_and_my_honest_take/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780558+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/homelabindiasales",
+        "upVotes": null
+      }
+    },
+    {
+      "id": "apify_reddit_t3_1v1exkd",
+      "source": "reddit_apify",
+      "text": "Help reviewing my Card Portfolio\n\nI have a HDFC salary savings account with classic banking privileges enabled. I’ve been using this account for almost a decade now. It was opened when I was working for a firm. Now I’l self employed and as business grew, I wanted a separate current account. So I opened a new current account with HDFC 5 months back with Vishesh Banking Priveleges. But both my salary and current account are linked to same mobile number. I hold a hdfc millenia credit card with around 2.5 lakhs credit limit and I’ve not got any offers for years now and this card is showing up on my savings account and not my current account. I’m not getting any credit card upgrade or offers as of now. I wrote a mail to grievance redressal and they were only willing me to offer an upgrade to Biz Power with a limit enhancement of 20k. Should I take this? Where should I hold my funds for maximum benefit and to maintain TRV with the bank? And what should be the TRV for upgrades? Or should I transfer my current account to other banks like Axis or HSBC? My details Age - 33 Self Employed ( GST Registered, Freelance Proprietor, Digital Marketing) ITR - Net ITR - 15 lakhs Cards I hold - Hsbc TravelOne, Axis Horizon, HDFC Millenia, Kiwi Rupay Card, IDFC First select (LTF) ( Average credit limit of 2.5 lakhs across all these cards ) Cibil - 791 Age of Accounts - 10 Years, 2 months 100% Timely Payments Credit Utilisation - 2% Spend Patterns - Utilities - 10k-12k Groceries ( Swiggy/ Blinkit ) - 7k-8k month Movies/Entertainment - 2k-3k Subscriptions - 2k Dining - 10k  Would be great if you guys could review and give me suggestions on what cards to keep, what to discard.. should I accept the biz power card for now or just stick with Millenia and improve my game. Waiting for your valuable inputs. Thanks in Advance.  &#32; submitted by &#32;  /u/Altruistic-Cod6812   [link] &#32; [comments]",
+      "rating": null,
+      "date": "2026-07-20T07:50:35.000Z",
+      "author": "Altruistic-Cod6812",
+      "url": "https://www.reddit.com/r/CreditCardsIndia/comments/1v1exkd/help_reviewing_my_card_portfolio/",
+      "language": null,
+      "collected_at": "2026-07-28T17:43:57.780653+00:00",
+      "metadata": {
+        "provider": "apify",
+        "actor": "trudax/reddit-scraper-lite",
+        "communityName": "r/CreditCardsIndia",
+        "upVotes": null
+      }
+    }
+  ]
+}

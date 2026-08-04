@@ -16,6 +16,7 @@ data/cleaned/*
 data/analyzed/*
 data/store/*
 !data/raw/.gitkeep
+!data/raw/*.json
 !data/cleaned/.gitkeep
 !data/analyzed/.gitkeep
 !data/store/.gitkeep
