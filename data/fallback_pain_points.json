@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Product discovery beyond usual categories is difficult",
+    "description": "Customers cannot easily find products outside their regular categories. The search-first experience and lack of curated discovery keep them locked in their existing purchase patterns.",
+    "frequency": 97,
+    "severity": "High",
+    "examples": [
+      "I only come here for milk and bread, never find other products worth adding.",
+      "The app shows me the same things I already buy. I never see new categories.",
+      "Search works but I have to know what I want, so I don't explore."
+    ]
+  },
+  {
+    "category": "No relevant cross-category suggestions",
+    "description": "There are no meaningful recommendations for complementary products across categories, so customers do not add new categories to their basket.",
+    "frequency": 239,
+    "severity": "High",
+    "examples": [
+      "I buy bread but never get suggestions for butter, jam or spreads.",
+      "No 'complete the meal' or 'frequently bought together' prompts.",
+      "Cart page doesn't suggest anything from related categories."
+    ]
+  },
+  {
+    "category": "Low trust when trying new categories",
+    "description": "Users avoid trying new categories because product information, expiry, packaging and substitutes feel uncertain, increasing perceived risk.",
+    "frequency": 552,
+    "severity": "Medium",
+    "examples": [
+      "I don't order new items because I'm not sure of quality or expiry.",
+      "Substitutes in a new category are risky; I can't trust it.",
+      "Need better product photos and reviews before trying something new."
+    ]
+  }
+]

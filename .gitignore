@@ -1,0 +1,31 @@
+# Secrets — never upload these
+.env
+.env.local
+
+# Python junk files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data may contain scraped content — keep local for now
+data/raw/*
+data/cleaned/*
+data/analyzed/*
+data/store/*
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!data/analyzed/.gitkeep
+!data/store/.gitkeep
+!data/store/store_summary.json
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml

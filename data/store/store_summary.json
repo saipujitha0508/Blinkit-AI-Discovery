@@ -1,0 +1,15 @@
+{
+  "input_rows": 14073,
+  "unique_rows": 11135,
+  "duplicates_removed": 2938,
+  "by_source": {
+    "google_play": 11054,
+    "app_store": 60,
+    "reddit": 21
+  },
+  "with_rating": 11114,
+  "without_rating": 21,
+  "stored_at": "2026-07-28T18:04:30.101554+00:00",
+  "master_json": "data\\store\\reviews_master.json",
+  "master_csv": "data\\store\\reviews_master.csv"
+}

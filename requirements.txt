@@ -1,0 +1,68 @@
+# Blinkit AI Discovery Engine - Production Dependencies
+# Install with: pip install -r requirements.txt
+# Compatible with existing Python version
+
+# ============================================
+# FRONTEND & DASHBOARD
+# ============================================
+streamlit
+plotly
+streamlit-option-menu
+
+# ============================================
+# DATA PROCESSING
+# ============================================
+pandas
+numpy
+openpyxl
+xlrd
+
+# ============================================
+# DATABASE
+# ============================================
+supabase
+sqlalchemy
+
+# ============================================
+# AI MODELS
+# ============================================
+# Gemini 2.5 Flash
+google-generativeai
+# Groq (Llama)
+groq
+
+# ============================================
+# NLP & TEXT PROCESSING
+# ============================================
+langdetect
+sentence-transformers
+scikit-learn
+
+# ============================================
+# WEB SCRAPING & DATA COLLECTION
+# ============================================
+requests
+httpx
+google-play-scraper
+praw
+youtube-transcript-api
+feedparser
+apify-client
+
+# ============================================
+# CONFIGURATION & UTILITIES
+# ============================================
+python-dotenv
+pydantic
+pydantic-settings
+
+# ============================================
+# LOGGING & MONITORING
+# ============================================
+loguru
+
+# ============================================
+# TESTING
+# ============================================
+pytest
+pytest-asyncio

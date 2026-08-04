@@ -1,0 +1,18 @@
+{
+  "root_causes": [
+    {
+      "pain_point": "Product discovery beyond usual categories is difficult",
+      "cause": "The app's information architecture is built around search and fast checkout, not browse-and-discover. Users must already know what they want, so unknown categories are never surfaced unless the user searches for them directly."
+    },
+    {
+      "pain_point": "No relevant cross-category suggestions",
+      "cause": "Cart and recommendation systems are not wired to cross-category purchase intent. Complementary products are not shown at the search, product, or checkout moments, so customers never see reasons to add a new category."
+    },
+    {
+      "pain_point": "Low trust when trying new categories",
+      "cause": "Product pages for new categories lack trust signals such as expiry dates, freshness tags, customer photos and quality guarantees. Customers therefore stay within familiar categories where risk is low."
+    }
+  ],
+  "analysis_depth": "systemic",
+  "sample_size": 1594
+}

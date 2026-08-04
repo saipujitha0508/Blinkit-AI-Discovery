@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: blinkit-ai-discovery
+    env: python
+    plan: standard
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless=true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.10
+      - key: AI_MODEL_PRIMARY
+        value: groq
+      - key: AI_MODEL_FALLBACK
+        value: gemini

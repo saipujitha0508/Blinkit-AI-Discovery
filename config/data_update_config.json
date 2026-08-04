@@ -1,0 +1,94 @@
+{
+  "data_update_pipeline": {
+    "enabled": true,
+    "schedule": {
+      "frequency": "weekly",
+      "day_of_week": "Sunday",
+      "time": "02:00",
+      "timezone": "UTC"
+    },
+    "data_sources": {
+      "google_play": {
+        "enabled": true,
+        "app_id": "com.grofers.customerapp",
+        "max_reviews": 10000,
+        "scrape_script": "scripts/scrape_google_play.py"
+      },
+      "app_store": {
+        "enabled": true,
+        "app_id": "com.grofers.customerapp",
+        "max_reviews": 500,
+        "scrape_script": "scripts/scrape_app_store.py"
+      },
+      "reddit": {
+        "enabled": true,
+        "subreddits": ["blinkit", "grofers", "quickcommerce"],
+        "max_posts": 200,
+        "scrape_script": "scripts/scrape_reddit.py"
+      }
+    },
+    "processing_steps": {
+      "data_cleaning": {
+        "enabled": true,
+        "remove_duplicates": true,
+        "min_text_length": 10,
+        "language_filter": ["en"]
+      },
+      "sentiment_analysis": {
+        "enabled": true,
+        "model": "groq_llama3",
+        "fallback_to_rating": true
+      },
+      "theme_extraction": {
+        "enabled": true,
+        "max_themes_per_review": 5,
+        "min_theme_confidence": 0.3
+      },
+      "insights_generation": {
+        "enabled": true,
+        "focus_areas": [
+          "delivery_issues",
+          "product_quality",
+          "app_experience",
+          "customer_service"
+        ]
+      }
+    },
+    "rag_index": {
+      "enabled": true,
+      "auto_rebuild": true,
+      "chunk_size": 400,
+      "embedding_model": "all-MiniLM-L6-v2",
+      "cache_enabled": true
+    },
+    "notifications": {
+      "enabled": false,
+      "email": {
+        "enabled": false,
+        "recipient": "",
+        "on_success": true,
+        "on_failure": true
+      },
+      "slack": {
+        "enabled": false,
+        "webhook_url": "",
+        "on_success": true,
+        "on_failure": true
+      }
+    },
+    "logging": {
+      "enabled": true,
+      "log_level": "INFO",
+      "log_dir": "logs",
+      "retention_days": 30
+    },
+    "backup": {
+      "enabled": true,
+      "backup_before_update": true,
+      "backup_dir": "data/backups",
+      "retention_days": 90
+    }
+  },
+  "version": "1.0",
+  "last_updated": "2026-07-29"
+}

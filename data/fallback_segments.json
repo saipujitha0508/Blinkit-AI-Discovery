@@ -1,0 +1,87 @@
+[
+  {
+    "segment_name": "Routine Reorderers",
+    "description": "High-frequency users who keep repurchasing the same daily essentials (milk, bread, eggs, medicines) and rarely leave their narrow set of categories.",
+    "goals": [
+      "Replenish daily staples with one-tap checkout",
+      "Avoid any friction in the buying process",
+      "Get the same products on time"
+    ],
+    "pain_points": [
+      "No reason to browse beyond the usual list",
+      "Cross-category suggestions feel irrelevant",
+      "Search-first flow kills discovery"
+    ],
+    "shopping_behavior": "Repeat same SKUs; use reorder and quick checkout; low dwell time; high frequency but single-category basket.",
+    "opportunity": "Add a 'Complete your basket' nudge with complementary items before checkout.",
+    "size_percentage": 63.7
+  },
+  {
+    "segment_name": "Intent-Driven Urgency Buyers",
+    "description": "Users who open the app with a very specific, time-sensitive need and want to complete that single mission as fast as possible.",
+    "goals": [
+      "Get the missing item in minutes",
+      "Solve an immediate problem",
+      "Avoid stepping out of home"
+    ],
+    "pain_points": [
+      "No time to browse new categories",
+      "Stock-outs force them to leave",
+      "Checkout must be one-tap"
+    ],
+    "shopping_behavior": "Search for one item, add to cart, checkout; high delivery-speed sensitivity; will switch apps if ETA is poor.",
+    "opportunity": "Create 'Forgot Something?' bundles and emergency kits with one-tap add for related categories.",
+    "size_percentage": 8.7
+  },
+  {
+    "segment_name": "Convenience-First Professionals",
+    "description": "Time-poor users who use Blinkit to outsource household shopping. They value saved time and predictable quality over exploring new products.",
+    "goals": [
+      "Minimise time spent on errands",
+      "Reduce decision fatigue",
+      "Trust the platform to deliver good quality"
+    ],
+    "pain_points": [
+      "Too many options to compare",
+      "No time to discover new categories",
+      "Substitutes can be risky"
+    ],
+    "shopping_behavior": "Prefer scheduled/repeat orders; stick to known categories; rarely browse; will pay for convenience.",
+    "opportunity": "Build a 'Personal Store' with auto-replenishment and one new curated category per month.",
+    "size_percentage": 7.2
+  },
+  {
+    "segment_name": "Deal-Seeking Explorers",
+    "description": "Price-sensitive users who actively look for offers, cashback and bundles. They are the most likely to try a new category if the deal is attractive.",
+    "goals": [
+      "Maximise savings on every order",
+      "Find value products quickly",
+      "Try new things at low risk"
+    ],
+    "pain_points": [
+      "Discounts are usually on categories they already buy",
+      "Discovery for value products in new categories is weak",
+      "Hidden charges reduce perceived savings"
+    ],
+    "shopping_behavior": "Browse offers, compare prices, add items only when discounted, open to cross-category if deal is strong.",
+    "opportunity": "Introduce 'Explore & Save' cross-category offers such as 20% off the first purchase in a new category.",
+    "size_percentage": 9.7
+  },
+  {
+    "segment_name": "Quality-Trust Buyers",
+    "description": "Users who prioritise freshness, expiry, packaging and brand trust. They stay in known categories because quality in new categories feels unproven.",
+    "goals": [
+      "Receive fresh, undamaged products",
+      "Avoid expired or near-expiry items",
+      "Buy from trusted brands"
+    ],
+    "pain_points": [
+      "Worry about quality when trying new categories",
+      "Inconsistent packaging and substitutes",
+      "Limited product information for new SKUs"
+    ],
+    "shopping_behavior": "Inspect product details, reviews and expiry; prefer known brands; negative experiences reduce trust in other categories.",
+    "opportunity": "Add quality badges, expiry visibility, customer photos and freshness guarantees for new-category products.",
+    "size_percentage": 10.8
+  }
+]
