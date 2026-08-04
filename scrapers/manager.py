@@ -216,4 +216,6 @@ class ScraperManager:
             return True  # RSS feeds are always available
         elif source == SourceType.APP_STORE:
             return False  # App Store collection is file-based only
+        elif source == SourceType.APIFY:
+            return bool(self.settings.APIFY_API_TOKEN)
         return False

@@ -114,8 +114,8 @@ def render_sidebar():
     data_source = st.sidebar.radio(
         "Select Data Source",
         ["📁 Preloaded Dataset", "🌐 Live Data Collection"],
-        index=0,
-        help="Choose between preloaded dataset or live API collection"
+        index=1,
+        help="On Streamlit Cloud, choose Live Data Collection. Preloaded files are not committed to the repo."
     )
     
     st.session_state.use_live_data = (data_source == "🌐 Live Data Collection")
@@ -141,7 +141,7 @@ def render_sidebar():
         enabled_sources = st.sidebar.multiselect(
             "Select Sources",
             ["Google Play", "Reddit", "YouTube", "News", "Apify"],
-            default=["Google Play", "Reddit"]
+            default=["Google Play"]
         )
         st.session_state.enabled_sources = enabled_sources
     
@@ -278,7 +278,7 @@ def run_full_analysis():
                 reviews = load_preloaded_data()
             
             if not reviews:
-                st.error("No reviews collected. Please check data sources.")
+                st.error("No reviews collected. Select Live Data Collection and check your API tokens are set in Secrets.")
                 return
             
             st.session_state.reviews = reviews
